@@ -143,4 +143,4 @@ When creating patches insert the [meta-atmel] tag in the subject, for example
 use something like:
 git format-patch -s --subject-prefix='meta-atmel][PATCH' <origin>
 
-ncx1
+ncx1-new
